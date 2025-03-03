@@ -1,2 +1,2 @@
 # Employees-Tracker
-A Python program to capture employee details, calculate commissions,  rank performance, track agency expenses, and identify the Employee of the Week  with bonus calculation.
+This Python program is designed to track employee performance and sales, providing a streamlined way to rank employees, calculate commissions, and manage agency expenses. The system identifies the Employee of the Week based on sales performance and calculates bonuses accordingly.
